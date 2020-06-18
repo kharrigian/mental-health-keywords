@@ -1,0 +1,976 @@
+ngram,dataset,disorder,min_relative_rank,n,count
+trichtillomania,reddit,general,0,1,1
+attention deficit w/ hyperactivity,reddit,general,0,4,1
+attention deflict distorder,reddit,general,0,3,1
+attn deficit w hyperact,reddit,general,0,4,1
+auspergers,reddit,general,0,1,1
+austism,reddit,general,0,1,1
+austistic,reddit,general,0,1,1
+authism,reddit,general,0,1,1
+authistic,reddit,general,0,1,1
+autisim,reddit,general,0,1,1
+autism,reddit,general,0,1,1
+autistic,reddit,general,0,1,1
+attention deficit hyperactivity dis,reddit,general,0,4,1
+bp1,reddit,general,0,1,1
+bulemia,reddit,general,0,1,1
+bulemic,reddit,general,0,1,1
+bulimea,reddit,general,0,1,1
+bulimia,reddit,general,0,1,1
+bulimic,reddit,general,0,1,1
+bullemia,reddit,general,0,1,1
+circular insanity,reddit,general,0,2,1
+combat neurosis,reddit,general,0,2,1
+cyclophrenia,reddit,general,0,1,1
+cyclophrenic,reddit,general,0,1,1
+cyclothymia,reddit,general,0,1,1
+bp2,reddit,general,0,1,1
+attention deficit dis,reddit,general,0,3,1
+assburger,reddit,general,0,1,1
+assberger,reddit,general,0,1,1
+mental health,clpsych-multitask,bipolar-borderline-depression-panic-ptsd-suicidal_ideation,0,2,6
+trichotilomania,reddit,general,0,1,1
+do not deserve to,clpsych,depression,0,4,1
+a.d.h.d.,reddit,general,0,1,1
+ad/hd,reddit,general,0,1,1
+kill themselves,multitask,schizophrenia-suicide_attempt,0,2,2
+add,reddit,general,0,1,1
+adhd,reddit,general,0,1,1
+alternating insanity,reddit,general,0,2,1
+anancastic neurosis,reddit,general,0,2,1
+anancastic personality,reddit,general,0,2,1
+anankastic personality,reddit,general,0,2,1
+anorectic,reddit,general,0,1,1
+anorexi,reddit,general,0,1,1
+anxiety,reddit,general,0,1,1
+mentally ill,multitask,bipolar-ptsd-schizophrenia-suicide_attempt,0,2,4
+apserger's,reddit,general,0,1,1
+asberger,reddit,general,0,1,1
+asburger,reddit,general,0,1,1
+aspberger,reddit,general,0,1,1
+asperger,reddit,general,0,1,1
+aspergian,reddit,general,0,1,1
+aspergic,reddit,general,0,1,1
+aspie,reddit,general,0,1,1
+aspurger,reddit,general,0,1,1
+cyclothymic,reddit,general,0,1,1
+deppression,reddit,general,0,1,1
+bolemia,reddit,general,0,1,1
+diagnos,reddit,general,0,1,1
+o.c.d.,reddit,general,0,1,1
+ocd,reddit,general,0,1,1
+pipolar,reddit,general,0,1,1
+ptsd,reddit,general,0,1,1
+ptsr,reddit,general,0,1,1
+ptss,reddit,general,0,1,1
+rapid cycling,reddit,general,0,2,1
+rumination,reddit,general,0,1,1
+schiizophrenia,reddit,general,0,1,1
+schitzo,reddit,general,0,1,1
+schizo,reddit,general,0,1,1
+schyzophrenia,reddit,general,0,1,1
+depres,reddit,general,0,1,1
+shizophrenia,reddit,general,0,1,1
+shizophrenic,reddit,general,0,1,1
+skitsafrantic,reddit,general,0,1,1
+skitzafrenic,reddit,general,0,1,1
+skitzophrenia,reddit,general,0,1,1
+social anxie,reddit,general,0,2,1
+tricho-tillomania,reddit,general,0,1,1
+trichollomania,reddit,general,0,1,1
+trichotilimania,reddit,general,0,1,1
+trichotillomania,reddit,general,0,1,1
+trichotillomannia,reddit,general,0,1,1
+trichotillosis,reddit,general,0,1,1
+merycism,reddit,general,0,1,1
+mental disease,reddit,general,0,2,1
+scizophrenia,reddit,general,0,1,1
+llpdd,reddit,general,0,1,1
+mdd,reddit,general,0,1,1
+dpression,reddit,general,0,1,1
+dual-form insanity,reddit,general,0,2,1
+dysthemia,reddit,general,0,1,1
+dysthimia,reddit,general,0,1,1
+dysthymia,reddit,general,0,1,1
+dysthymic,reddit,general,0,1,1
+distimea,reddit,general,0,1,1
+dystimea,reddit,general,0,1,1
+disthymia,reddit,general,0,1,1
+dipolar,reddit,general,0,1,1
+eating disord,reddit,general,0,2,1
+enxiety,reddit,general,0,1,1
+excoriation,reddit,general,0,1,1
+coping,clpsych-multitask,bipolar-panic-ptsd-schizophrenia-suicide_attempt,0,1,6
+hysterical neurosis,reddit,general,0,2,1
+insanity of double form,reddit,general,0,4,1
+dystimia,reddit,general,0,1,1
+distimia,reddit,general,0,1,1
+important to me,multitask,ptsd,1,3,1
+a poem about,multitask,depression,1,3,1
+i dont want to,multitask,suicidal_ideation,1,4,1
+dehumanizing,multitask,depression,1,1,1
+so angry,multitask,borderline,1,2,1
+cishet,multitask,anxiety-depression-suicide_attempt,1,1,3
+trauma,clpsych-multitask,bipolar-panic-ptsd,1,1,4
+i have felt,clpsych,ptsd,1,3,1
+suicidal,clpsych-multitask,bipolar-borderline-depression-eating-panic-ptsd-schizophrenia-suicidal_ideation-suicide_attempt,2,1,10
+controlled,multitask,ptsd-schizophrenia,2,1,2
+lot of pain,multitask,eating,2,3,1
+bpd,multitask,borderline-suicide_attempt,2,1,2
+ableist,multitask,anxiety-depression-suicide_attempt,2,1,3
+how are you doing,multitask,ptsd,2,4,1
+blade,clpsych-multitask,depression-suicidal_ideation,3,1,2
+want to kill,multitask,suicidal_ideation,3,3,1
+break my fast,multitask,eating,3,3,1
+a lot to me,multitask,ptsd,3,4,1
+counselling,multitask,anxiety-depression-eating-suicide_attempt,3,1,4
+i can not afford,clpsych,ptsd,3,4,1
+disorder,clpsych-multitask,borderline-ptsd-schizophrenia,4,1,4
+b/p,multitask,eating,4,1,1
+harm,clpsych-multitask,bipolar-borderline-depression-ptsd-suicidal_ideation,4,1,5
+wrists,clpsych-multitask,bipolar-depression-ptsd-schizophrenia-suicide_attempt,4,1,5
+a friend of mine,clpsych,ptsd,5,4,1
+will be skinny,multitask,eating,5,3,1
+if you ever need,multitask,ptsd,5,4,1
+mend,clpsych,ptsd,5,1,1
+ed but,multitask,eating,5,2,1
+masturbate,clpsych-multitask,depression-suicide_attempt,6,1,2
+dysphoria,multitask,suicide_attempt,6,1,1
+voices in my,multitask,schizophrenia,6,3,1
+celexa,multitask,anxiety,6,1,1
+getting worse,multitask,suicidal_ideation,6,2,1
+i used to have,multitask,ptsd,6,4,1
+want to hug,multitask,panic,6,3,1
+hear voices,multitask,schizophrenia,6,2,1
+i will never be,multitask,borderline-suicidal_ideation,6,4,2
+days clean,multitask,eating-suicide_attempt,6,2,2
+illness,clpsych-multitask,borderline-panic-ptsd,6,1,3
+as a child,clpsych,ptsd,6,3,1
+want to die,clpsych-multitask,bipolar-depression-ptsd-suicidal_ideation,6,3,5
+im screaming,clpsych,depression,7,2,1
+ranting,multitask,ptsd,7,1,1
+they do not care,multitask,bipolar,7,4,1
+run away,multitask,borderline,7,2,1
+nausea,clpsych-multitask,bipolar-ptsd,7,1,2
+citalopram,multitask,anxiety,7,1,1
+suicide,clpsych-multitask,borderline-depression-ptsd-suicidal_ideation-suicide_attempt,7,1,5
+health issues,multitask,bipolar-panic,7,2,2
+reach my goal,multitask,eating,7,3,1
+edproblems,multitask,eating,7,1,1
+borderline,multitask,bipolar-borderline,7,1,2
+insecure,multitask,bipolar-suicidal_ideation,8,1,2
+genderfluid,multitask,anxiety,8,1,1
+god dammit,clpsych,depression,8,2,1
+i have been there,multitask,ptsd,8,4,1
+i do not give a,multitask,borderline,8,5,1
+gender identity,multitask,suicide_attempt,9,2,1
+sorry for being,clpsych,depression,9,3,1
+kill myself,multitask,suicidal_ideation,9,2,1
+fed,multitask,borderline,9,1,1
+i am sorry that,multitask,ptsd,9,4,1
+the loss of,clpsych,ptsd,9,3,1
+diseases,multitask,ptsd,9,1,1
+modelling,multitask,eating,9,1,1
+unbearable,clpsych-multitask,ptsd,9,1,2
+number on the scale,multitask,eating,10,4,1
+to die in,multitask,schizophrenia,10,3,1
+no one would,clpsych,ptsd,10,3,1
+i give up,multitask,borderline,10,3,1
+horrid,multitask,bipolar,10,1,1
+sexually,multitask,borderline-ptsd,10,1,2
+edprobs,multitask,eating,10,1,1
+okay and,multitask,bipolar,10,2,1
+ill people,multitask,depression,11,2,1
+relapsing,multitask,depression-eating-suicide_attempt,11,1,3
+effects,multitask,borderline,11,1,1
+emo,clpsych-multitask,depression-ptsd-suicidal_ideation,11,1,3
+and that i,clpsych,ptsd,11,3,1
+need to talk,multitask,suicidal_ideation,11,3,1
+thinspo,multitask,anxiety-depression-eating-suicide_attempt,12,1,4
+wish i was dead,multitask,suicide_attempt,12,4,1
+a cis,multitask,depression,12,2,1
+hipbones,multitask,eating,12,1,1
+getting bad again,multitask,depression-eating-suicide_attempt,12,3,3
+grieving,multitask,ptsd,12,1,1
+deal with it,multitask,suicidal_ideation,12,3,1
+feel sick,multitask,borderline-suicidal_ideation,12,2,2
+i am sorry for,clpsych,depression,12,4,1
+bothered,multitask,borderline,13,1,1
+admitted,clpsych-multitask,ptsd,13,1,2
+scars,clpsych-multitask,bipolar-borderline-depression-suicidal_ideation,13,1,4
+now i want to,multitask,ptsd,13,4,1
+i am so sick,multitask,suicidal_ideation,13,4,1
+abusive,clpsych-multitask,bipolar-depression-ptsd,13,1,4
+prescribed,multitask,eating-panic-schizophrenia,13,1,3
+puking,clpsych,depression,14,1,1
+i was a kid,clpsych,ptsd,14,4,1
+stereotype,multitask,ptsd,14,1,1
+veteran,clpsych,ptsd,14,1,1
+i stan,multitask,depression,14,2,1
+really sad,multitask,borderline,14,2,1
+going to try and,clpsych,depression,14,4,1
+dizzy,clpsych-multitask,ptsd-suicidal_ideation,14,1,2
+a victim,clpsych-multitask,ptsd,14,2,2
+weight now,multitask,eating,14,2,1
+outpatient,multitask,eating,14,1,1
+weeks clean,multitask,suicide_attempt,15,2,1
+trigger,multitask,borderline-ptsd-suicidal_ideation,15,1,3
+anal,clpsych,depression,15,1,1
+my existence,clpsych,depression,15,2,1
+am fasting,multitask,eating,15,2,1
+mental hospital,multitask,schizophrenia-suicide_attempt,16,2,2
+irl friends,multitask,depression,16,2,1
+manic,multitask,bipolar,16,1,1
+not racist,multitask,ptsd,16,2,1
+it is racist,multitask,depression,17,3,1
+hearing voices,multitask,schizophrenia,17,2,1
+survivor,clpsych,ptsd,17,1,1
+oppressed,multitask,bipolar-ptsd,18,1,2
+stains,clpsych,depression,18,1,1
+i am scared,multitask,borderline,18,3,1
+calories but,multitask,eating,18,2,1
+wanting to die,multitask,eating-suicide_attempt,18,3,2
+ednos,multitask,eating,18,1,1
+i totally get it,multitask,depression,18,4,1
+intersectional,multitask,depression,18,1,1
+want to help,clpsych,ptsd,19,3,1
+afraid that,multitask,schizophrenia,19,2,1
+tense,multitask,bipolar,19,1,1
+worthless,clpsych-multitask,borderline-depression-ptsd-suicidal_ideation,19,1,4
+sorry i have not been,multitask,depression,19,5,1
+all food,multitask,eating,19,2,1
+feel better soon,clpsych,ptsd,20,3,1
+and never wake up,multitask,suicide_attempt,20,4,1
+masturbating,multitask,schizophrenia-suicide_attempt,20,1,2
+not alone,multitask,borderline-ptsd-suicidal_ideation,20,2,3
+the voices in,multitask,schizophrenia,20,3,1
+much xx,multitask,eating,20,2,1
+have to deal with,clpsych,ptsd,20,4,1
+gives a shit,clpsych,depression,21,3,1
+picslip,multitask,anxiety-depression-eating-suicide_attempt,21,1,4
+effexor,multitask,anxiety,21,1,1
+gendered,multitask,depression,21,1,1
+love xx,multitask,eating,21,2,1
+attempts,clpsych-multitask,depression-suicidal_ideation,22,1,2
+offend,multitask,ptsd,22,1,1
+was forced,multitask,schizophrenia,22,2,1
+do not want to eat,multitask,eating-suicide_attempt,22,5,2
+erotic,multitask,schizophrenia,22,1,1
+calories for,multitask,eating,22,2,1
+actually crying,clpsych,depression,23,2,1
+to make up for,clpsych,ptsd,23,4,1
+months clean,multitask,depression-eating-suicide_attempt,23,2,3
+fat on my,multitask,eating,23,3,1
+weeb,multitask,depression,23,1,1
+alcoholism,multitask,schizophrenia,23,1,1
+do you think you,multitask,ptsd,23,4,1
+dietician,multitask,eating,23,1,1
+feel like shit,multitask,suicidal_ideation,23,3,1
+thigh,multitask,suicidal_ideation,23,1,1
+shit like this,multitask,bipolar,24,3,1
+tendencies,multitask,bipolar-schizophrenia,24,1,2
+horrifying,clpsych,ptsd,24,1,1
+to purge,multitask,eating,24,2,1
+where is the lie,multitask,depression,24,4,1
+to hurt myself,multitask,eating-suicide_attempt,25,3,2
+useless,multitask,borderline,25,1,1
+my sex,multitask,schizophrenia,25,2,1
+vile,multitask,bipolar-panic-ptsd-schizophrenia,26,1,4
+recover,multitask,borderline-suicidal_ideation,26,1,2
+blocked me for,multitask,depression,26,3,1
+hid,multitask,ptsd,26,1,1
+wellbutrin,multitask,anxiety,26,1,1
+fat and disgusting,multitask,eating,27,3,1
+not know if i can,clpsych,depression,27,5,1
+razor,clpsych,depression,27,1,1
+is bloody,multitask,eating,27,2,1
+hate everything,clpsych,depression-ptsd,27,2,2
+guilt,clpsych,ptsd,27,1,1
+duloxetine,multitask,anxiety,28,1,1
+hour fast,multitask,eating,28,2,1
+counsellor,multitask,anxiety-depression,28,1,2
+horny,multitask,suicidal_ideation,28,1,1
+as someone,multitask,bipolar,28,2,1
+hallucinating,multitask,schizophrenia,29,1,1
+not eat i,multitask,eating,29,3,1
+weight loss,clpsych,ptsd,29,2,1
+free will,multitask,schizophrenia,29,2,1
+end my life,multitask,eating-suicide_attempt,29,3,2
+paranoid,multitask,bipolar-borderline-ptsd-suicidal_ideation,29,1,4
+feel the same way,clpsych,ptsd,29,4,1
+me to kill,multitask,suicide_attempt,30,3,1
+sexuality,multitask,bipolar-ptsd,30,1,2
+feel comfortable,multitask,bipolar,30,2,1
+the military,clpsych,ptsd,30,2,1
+i want him,multitask,bipolar,30,3,1
+all ok,multitask,eating,30,2,1
+destructive,multitask,bipolar,31,1,1
+bodyslip,multitask,eating,31,1,1
+thinner than,multitask,eating,31,2,1
+syndrome,clpsych-multitask,ptsd,31,1,2
+apologising,multitask,anxiety,31,1,1
+it is why i,multitask,suicide_attempt,32,4,1
+not purge,multitask,eating,32,2,1
+damage,multitask,borderline,32,1,1
+orgasm,multitask,bipolar,32,1,1
+cannibal,multitask,schizophrenia,32,1,1
+disgusted with myself,multitask,eating,32,3,1
+wanker,multitask,schizophrenia,33,1,1
+before i was,multitask,schizophrenia,33,3,1
+sorry to hear that,clpsych,ptsd,33,4,1
+it hurts so much,multitask,eating-suicide_attempt,34,4,2
+broke my fast,multitask,eating,35,3,1
+hope you are well,clpsych,ptsd,35,4,1
+hope you are ok,multitask,eating-suicide_attempt,35,4,2
+intersex,multitask,anxiety,35,1,1
+problematic,multitask,bipolar-ptsd,35,1,2
+so skinny and,multitask,eating,36,3,1
+criticising,multitask,depression,36,1,1
+disappear,multitask,borderline,36,1,1
+manipulating,multitask,schizophrenia,36,1,1
+unstable,multitask,ptsd,36,1,1
+identifying as,multitask,anxiety,36,2,1
+am such a fat,multitask,eating,37,4,1
+i would feel,multitask,bipolar,37,3,1
+our bodies,multitask,schizophrenia,37,2,1
+no one likes me,multitask,suicide_attempt,37,4,1
+vaginas,clpsych,depression,37,1,1
+treatment,multitask,borderline-suicidal_ideation,37,1,2
+helped me a lot,multitask,depression,37,4,1
+insulted,multitask,bipolar-ptsd,37,1,2
+underweight,multitask,depression-eating,37,1,2
+injection,multitask,schizophrenia,38,1,1
+over calories,multitask,eating,38,2,1
+drained,multitask,suicidal_ideation,38,1,1
+cuts,multitask,borderline-suicidal_ideation,38,1,2
+my mental,multitask,bipolar,38,2,1
+isolated,multitask,ptsd,38,1,1
+sorrow,clpsych,ptsd,38,1,1
+weight i will,multitask,eating,39,3,1
+compassion,clpsych,ptsd,39,1,1
+esteem,clpsych,ptsd,40,1,1
+go to the hospital,clpsych,depression,40,4,1
+rough day,clpsych,ptsd,40,2,1
+purged,multitask,eating-suicide_attempt,40,1,2
+what i am going,multitask,ptsd,40,4,1
+kill him,multitask,bipolar,41,2,1
+threatening,multitask,bipolar,41,1,1
+not available,multitask,ptsd,41,2,1
+misogynist,multitask,depression-suicide_attempt,41,1,2
+into my fast,multitask,eating,42,3,1
+oppression,multitask,panic-ptsd-schizophrenia,42,1,3
+shrink,multitask,bipolar,42,1,1
+collarbones,multitask,eating-suicide_attempt,43,1,2
+vulnerable,clpsych,depression-ptsd,43,1,2
+i have not spoken to,multitask,depression,43,5,1
+voices are,multitask,schizophrenia,43,2,1
+inpatient,multitask,eating,44,1,1
+hallucinations,multitask,schizophrenia,44,1,1
+i have lost,multitask,borderline,44,3,1
+posh,multitask,bipolar,44,1,1
+i can not bring myself,multitask,suicide_attempt,44,5,1
+underage,multitask,panic,44,1,1
+psych,multitask,borderline,45,1,1
+want to get better,multitask,eating,45,4,1
+healing,clpsych,ptsd,45,1,1
+cals,multitask,eating-suicide_attempt,45,1,2
+i need to lose,multitask,eating-suicide_attempt,46,4,2
+nostalgic,clpsych,ptsd,46,1,1
+i was a teenager,multitask,schizophrenia,46,4,1
+pansexual,multitask,suicide_attempt,47,1,1
+rapist,clpsych-multitask,depression-ptsd,47,1,3
+cries,multitask,borderline-suicidal_ideation,47,1,2
+soz,multitask,eating,48,1,1
+lowest weight,multitask,eating,48,2,1
+the feels,clpsych,depression,48,2,1
+that feel when,multitask,depression,49,3,1
+and apparently,clpsych,depression,49,2,1
+racists,multitask,schizophrenia,49,1,1
+purging,multitask,eating-suicide_attempt,49,1,2
+toxic,clpsych,depression-ptsd,50,1,2
+overwhelming,multitask,suicidal_ideation,50,1,1
+i used to love,clpsych-multitask,bipolar-ptsd,50,4,2
+rants,multitask,ptsd,50,1,1
+doxycycline,multitask,anxiety,51,1,1
+hurtful,multitask,ptsd,51,1,1
+resist,multitask,borderline,52,1,1
+ate so much today,multitask,eating,52,4,1
+empathy,multitask,bipolar-ptsd,53,1,2
+insomnia,clpsych-multitask,ptsd-suicidal_ideation,53,1,2
+vent,multitask,borderline,53,1,1
+i cut,multitask,borderline,53,2,1
+fear food,multitask,eating,53,2,1
+sad all the time,multitask,eating-suicide_attempt,53,4,2
+seroquel,multitask,anxiety,54,1,1
+grave,multitask,borderline,54,1,1
+to live anymore,multitask,suicide_attempt,54,3,1
+theories,multitask,ptsd,55,1,1
+fasted,multitask,eating,55,1,1
+i have been feeling,multitask,bipolar-panic,55,4,2
+endure,clpsych,ptsd,55,1,1
+the bottom of the,clpsych,ptsd,56,4,1
+distress,multitask,panic-schizophrenia,56,1,2
+hope i die,multitask,depression,56,3,1
+restless,clpsych,ptsd,56,1,1
+fetish,multitask,bipolar-panic-schizophrenia,56,1,3
+not realise,multitask,eating,56,2,1
+the army,clpsych,ptsd,56,2,1
+divorced,clpsych,ptsd,57,1,1
+just got back from,clpsych,ptsd,57,4,1
+not to cut,multitask,eating,57,3,1
+stabbed,clpsych,ptsd,58,1,1
+restrict,multitask,eating,58,1,1
+overdose,multitask,panic-schizophrenia,58,1,2
+talentless,multitask,depression,58,1,1
+me full,multitask,eating,58,2,1
+consent,multitask,bipolar-ptsd,58,1,2
+lethal,multitask,schizophrenia,58,1,1
+save me from myself,multitask,depression-eating,59,4,2
+relapse,multitask,eating-schizophrenia-suicide_attempt,59,1,3
+weighing myself,multitask,eating,59,2,1
+hope she is ok,multitask,depression,59,4,1
+surgeon,clpsych,ptsd,59,1,1
+punish,multitask,ptsd-schizophrenia,59,1,2
+outed,multitask,depression,59,1,1
+colouring,multitask,eating,60,1,1
+near the end of,multitask,depression,60,4,1
+low calorie,multitask,eating,60,2,1
+rest of my life,multitask,suicidal_ideation,60,4,1
+for mental,multitask,suicide_attempt,61,2,1
+care of yourself,multitask,panic,61,3,1
+a burden,multitask,bipolar-schizophrenia,61,2,2
+ehat,multitask,depression,61,1,1
+fuc,multitask,depression,62,1,1
+and ugh,clpsych,depression,62,2,1
+failings,multitask,anxiety,62,1,1
+when i came out,multitask,depression,62,4,1
+weighed myself,multitask,eating,62,2,1
+am not worth,multitask,suicide_attempt,63,3,1
+health it,multitask,anxiety,63,2,1
+cryinf,multitask,depression,63,1,1
+narcissistic,multitask,schizophrenia,63,1,1
+obsessive,multitask,bipolar,63,1,1
+stigma,multitask,ptsd-schizophrenia-suicide_attempt,63,1,3
+pill,multitask,borderline,64,1,1
+so fat and,multitask,suicide_attempt,64,3,1
+a deep breath,multitask,schizophrenia,64,3,1
+am so stressed,clpsych,depression,64,3,1
+i am sorry you,multitask,ptsd,64,4,1
+harsh,multitask,borderline,65,1,1
+f u c k,multitask,suicide_attempt,65,4,1
+to love myself,multitask,suicide_attempt,66,3,1
+what i ate,multitask,eating,66,3,1
+need to be skinny,multitask,eating,66,4,1
+doctors,multitask,borderline,66,1,1
+controlling,multitask,ptsd,67,1,1
+im so fat,multitask,eating,67,3,1
+drink lots of water,multitask,eating,67,4,1
+now xx,multitask,eating,67,2,1
+panic,clpsych-multitask,borderline-depression-suicidal_ideation,68,1,3
+lose weight,multitask,borderline-suicidal_ideation,68,2,2
+misogyny,multitask,suicide_attempt,68,1,1
+disturbed,clpsych,ptsd,68,1,1
+thinspiration,multitask,eating,68,1,1
+to cut but,multitask,eating,69,3,1
+shaming,multitask,bipolar-panic-ptsd-suicide_attempt,69,1,4
+would kill,multitask,borderline,69,2,1
+refused,clpsych,ptsd,70,1,1
+not eaten,multitask,suicidal_ideation,70,2,1
+agony,clpsych,depression,70,1,1
+it is my fault,clpsych,depression,70,4,1
+nudes and,multitask,eating,70,2,1
+whiny,multitask,bipolar,70,1,1
+angry i,clpsych,depression,70,2,1
+suffer,multitask,borderline-ptsd-suicidal_ideation,71,1,3
+terror,clpsych,ptsd,71,1,1
+does get better,multitask,suicide_attempt,72,3,1
+it pisses me off,multitask,bipolar,72,4,1
+prescription,clpsych,ptsd,73,1,1
+will never get over,multitask,panic,73,4,1
+i will be dead,multitask,suicide_attempt,73,4,1
+commit,multitask,suicidal_ideation,73,1,1
+bugging,multitask,bipolar,73,1,1
+pedophiles,multitask,schizophrenia,74,1,1
+disgrace,clpsych,ptsd,74,1,1
+intention,multitask,ptsd,74,1,1
+sadness,multitask,borderline,75,1,1
+not defending,multitask,depression,75,2,1
+chest bones,multitask,eating,75,2,1
+cunts,clpsych,ptsd,75,1,1
+younger i,multitask,schizophrenia,75,2,1
+condition,multitask,suicidal_ideation,76,1,1
+xanax,multitask,bipolar,76,1,1
+urges,clpsych-multitask,bipolar-ptsd,76,1,2
+smoking weed,multitask,schizophrenia,76,2,1
+cutting,multitask,borderline,77,1,1
+needle,clpsych,ptsd,77,1,1
+i am crying so,multitask,suicide_attempt,77,4,1
+appropriation is,multitask,anxiety,77,2,1
+i want to lose,multitask,eating,77,4,1
+weight and i,multitask,eating,78,3,1
+am lbs,multitask,eating,78,2,1
+quit smoking,multitask,schizophrenia,78,2,1
+reject,multitask,bipolar,79,1,1
+a bad person,clpsych,depression,79,3,1
+swear to god i,multitask,bipolar,79,4,1
+realised how,multitask,eating,79,2,1
+my weight,clpsych-multitask,borderline-ptsd,79,2,2
+i need to cut,multitask,eating-suicide_attempt,79,4,2
+labelled,multitask,eating,79,1,1
+i am so worried,multitask,suicide_attempt,80,4,1
+and i was like,multitask,bipolar,80,4,1
+hatred,multitask,ptsd,80,1,1
+you are so pretty,multitask,bipolar,81,4,1
+dildos,multitask,schizophrenia-suicide_attempt,81,1,2
+apologist,multitask,depression,82,1,1
+am still alive,clpsych,depression,82,3,1
+attacking,multitask,ptsd,82,1,1
+loneliness,clpsych,depression,83,1,1
+erasure,multitask,anxiety-depression,83,1,2
+counting calories,multitask,eating,83,2,1
+drowning,multitask,suicidal_ideation,83,1,1
+marks,multitask,suicidal_ideation,84,1,1
+sexism,multitask,ptsd,84,1,1
+i have a headache,multitask,panic,84,4,1
+to swallow,multitask,schizophrenia,84,2,1
+can not do this anymore,multitask,suicide_attempt,85,5,1
+vomiting,multitask,panic,85,1,1
+abuse,clpsych,ptsd,85,1,1
+moan,multitask,bipolar,85,1,1
+want to be skinny,multitask,suicide_attempt,86,4,1
+please stay,clpsych,depression,86,2,1
+femininity,multitask,depression,86,1,1
+myself to eat,multitask,eating,87,3,1
+intolerant,multitask,bipolar,87,1,1
+hate life,clpsych,depression,87,2,1
+agender,multitask,anxiety,87,1,1
+been clean,multitask,eating-suicide_attempt,87,2,2
+bawling,clpsych,depression,88,1,1
+so alone,clpsych,depression,88,2,1
+i purge,multitask,eating,88,2,1
+grin,multitask,ptsd,89,1,1
+they/them,multitask,anxiety,89,1,1
+horrendous,multitask,panic-ptsd,89,1,2
+so scared,multitask,borderline,89,2,1
+bullies,clpsych-multitask,depression-ptsd,90,1,3
+ableism,multitask,depression,90,1,1
+victim of,clpsych,ptsd,91,2,1
+lexapro,multitask,anxiety-depression,92,1,2
+alone and,multitask,borderline,92,2,1
+assure,multitask,ptsd,92,1,1
+anxious,multitask,borderline,92,1,1
+androgynous,multitask,depression,92,1,1
+failure,multitask,borderline,93,1,1
+crying so much,multitask,suicide_attempt,93,3,1
+not stop crying,clpsych-multitask,bipolar-depression,93,3,2
+heroin,clpsych,depression,93,1,1
+my own fault,multitask,depression,93,3,1
+lgbt+,multitask,anxiety,93,1,1
+health problems,multitask,schizophrenia,94,2,1
+attacks,clpsych,depression,95,1,1
+killing people,multitask,schizophrenia,95,2,1
+fat pig,multitask,eating,95,2,1
+tired omg,multitask,depression,95,2,1
+am fat i,multitask,eating,95,3,1
+im crying so,multitask,depression,96,3,1
+not sleeping,multitask,borderline,96,2,1
+feel sad,multitask,schizophrenia,96,2,1
+be alone,multitask,borderline,96,2,1
+hate people,multitask,borderline,97,2,1
+too x,multitask,eating,97,2,1
+drowned,multitask,panic,97,1,1
+too fat for,multitask,eating,98,3,1
+manipulate,multitask,schizophrenia,98,1,1
+i want to cut,multitask,suicide_attempt,98,4,1
+masturbation,multitask,schizophrenia-suicide_attempt,99,1,2
+forced to eat,multitask,eating,99,3,1
+am struggling,multitask,panic,100,2,1
+threatened,multitask,ptsd-suicidal_ideation,101,1,2
+bleed,multitask,borderline,101,1,1
+i have been following,multitask,eating,101,4,1
+how hard it is,clpsych,ptsd,101,4,1
+wreck,multitask,borderline,102,1,1
+my lw,multitask,eating,102,2,1
+med,multitask,borderline,103,1,1
+i have never liked,multitask,depression,103,4,1
+in pain,multitask,borderline,104,2,1
+to therapy,multitask,suicide_attempt,104,2,1
+can get away with,multitask,ptsd,104,4,1
+weight again,multitask,anxiety,105,2,1
+still struggle,multitask,depression,105,2,1
+worrying,multitask,borderline,105,1,1
+as long as they,multitask,ptsd,105,4,1
+broke down,clpsych,ptsd,105,2,1
+thyroid,multitask,eating,105,1,1
+feel so much better,clpsych,depression-ptsd,105,4,2
+pissed off,multitask,borderline,105,2,1
+exploited,multitask,schizophrenia,106,1,1
+am going through,clpsych,ptsd,106,3,1
+am losing,clpsych,ptsd,106,2,1
+i self,multitask,eating,107,2,1
+have gained so,multitask,eating,107,3,1
+this is too much,multitask,panic,107,4,1
+give a shit,clpsych,ptsd,107,3,1
+escape,multitask,suicidal_ideation,107,1,1
+measurements,multitask,eating,107,1,1
+my wrist,clpsych,depression-ptsd,107,2,2
+to hate me,clpsych,depression,107,3,1
+reason to live,multitask,suicide_attempt,108,3,1
+do not cut,multitask,schizophrenia,108,3,1
+and i am trying,multitask,panic,108,4,1
+made me eat,multitask,eating,108,3,1
+deserve to die,multitask,suicide_attempt,109,3,1
+bmi,multitask,eating,110,1,1
+am disgusting,multitask,eating-suicide_attempt,111,2,2
+laxative,multitask,eating,111,1,1
+got my period,multitask,eating,111,3,1
+my own skin,multitask,eating-suicide_attempt,112,3,2
+gained weight,multitask,eating,112,2,1
+not :),clpsych,depression,113,2,1
+let me die,multitask,suicide_attempt,113,3,1
+bullied,clpsych-multitask,depression-ptsd,113,1,2
+i actually feel,clpsych,depression,113,3,1
+fat it is,multitask,eating,113,3,1
+hate myself,clpsych-multitask,bipolar-borderline-depression-suicidal_ideation,113,2,4
+look in the mirror,clpsych,ptsd,114,4,1
+feel so fat,multitask,suicide_attempt,114,3,1
+am still fat,multitask,eating,114,3,1
+weight does,multitask,eating,114,2,1
+flesh,multitask,ptsd,114,1,1
+strain,multitask,panic,114,1,1
+abdominal,multitask,eating,115,1,1
+get what you mean,multitask,depression,115,4,1
+you feel better,multitask,borderline,116,3,1
+purge but,multitask,eating,116,2,1
+died in,clpsych,ptsd,116,2,1
+raping,multitask,bipolar,116,1,1
+self-care,multitask,depression,116,1,1
+feel shit,multitask,eating,117,2,1
+gutted,multitask,panic,117,1,1
+feel happy,multitask,schizophrenia,117,2,1
+devastated,multitask,bipolar,117,1,1
+scales,multitask,eating,117,1,1
+i am shit,multitask,eating,117,3,1
+water fast,multitask,eating,118,2,1
+it makes me feel,clpsych,ptsd,118,4,1
+whereas,multitask,schizophrenia,119,1,1
+i am a fat,multitask,eating,119,4,1
+bloat,multitask,eating,120,1,1
+my ed,multitask,depression-eating-suicide_attempt,120,2,3
+i hate my life,clpsych,depression,121,4,1
+innocence,multitask,ptsd,121,1,1
+clean from,multitask,suicide_attempt,121,2,1
+a waste of space,multitask,suicide_attempt,121,4,1
+am going to end,multitask,eating,122,4,1
+to try and sleep,multitask,depression,122,4,1
+am not the only one,multitask,borderline,123,5,1
+dizziness,multitask,depression,123,1,1
+because i am fat,multitask,eating,124,4,1
+am thin,multitask,eating,124,2,1
+abortion,multitask,bipolar,124,1,1
+i am fat and,multitask,eating,125,4,1
+sob,clpsych,depression,125,1,1
+need someone to talk,clpsych,depression,125,4,1
+you will be fine,clpsych,ptsd,126,4,1
+how fat i am,multitask,eating,126,4,1
+kill herself,multitask,eating-suicide_attempt,127,2,2
+fraud,multitask,panic,127,1,1
+betrayed,multitask,bipolar,127,1,1
+fat fat,multitask,eating,128,2,1
+my hip bones,multitask,eating,128,3,1
+personalities,multitask,bipolar,128,1,1
+virginity,multitask,bipolar,129,1,1
+paranoia,multitask,schizophrenia,129,1,1
+not gain,multitask,eating,129,2,1
+so sorry to,clpsych,ptsd,130,3,1
+abusing,multitask,bipolar-ptsd,130,1,2
+i cant do this,multitask,suicide_attempt,130,4,1
+want to live,clpsych-multitask,ptsd-suicidal_ideation,131,3,2
+deserve to be happy,clpsych,depression,131,4,1
+you realise,multitask,suicide_attempt,131,2,1
+commenting,multitask,bipolar,131,1,1
+be thin,multitask,suicide_attempt,132,2,1
+help i,clpsych,depression,132,2,1
+drop dead,clpsych,depression,133,2,1
+weight it,multitask,eating,133,2,1
+edgy,multitask,schizophrenia,133,1,1
+being fat,clpsych,depression,134,2,1
+flashbacks,clpsych,ptsd,134,1,1
+i feel like it,clpsych,ptsd,134,4,1
+someone to talk to,multitask,bipolar,135,4,1
+sorry for your,clpsych,ptsd,135,3,1
+haunt,multitask,ptsd,135,1,1
+delusion,multitask,schizophrenia,135,1,1
+hate my body,multitask,eating-suicide_attempt,136,3,2
+i do not care about,multitask,bipolar,136,5,1
+bothering,multitask,bipolar-ptsd,137,1,2
+die right now,multitask,suicide_attempt,137,3,1
+imaginary,clpsych-multitask,bipolar-panic-ptsd,137,1,4
+water weight,multitask,eating,138,2,1
+bully,multitask,ptsd,138,1,1
+am just sick of,multitask,depression,138,4,1
+i am already dead,multitask,depression,139,4,1
+mentalhealth,multitask,eating-suicide_attempt,139,1,2
+not well,multitask,eating,139,2,1
+i am so pathetic,multitask,eating,140,4,1
+i have been up,clpsych,ptsd,141,4,1
+i am trash,multitask,suicide_attempt,141,3,1
+go for a walk,multitask,panic,141,4,1
+void,multitask,ptsd,141,1,1
+do not want him to,multitask,eating,142,5,1
+safe space,multitask,depression,142,2,1
+feel so ill,multitask,eating,142,3,1
+it is not the same,multitask,panic,143,5,1
+a piece of shit,multitask,suicidal_ideation,143,4,1
+i can not deal with,multitask,suicidal_ideation,144,5,1
+are feeling better,clpsych,ptsd,144,3,1
+in prison,clpsych,ptsd,144,2,1
+lucid,multitask,schizophrenia,145,1,1
+overweight,multitask,bipolar,146,1,1
+fu ck,multitask,anxiety,146,2,1
+veganism,multitask,eating,146,1,1
+gasp,multitask,bipolar,147,1,1
+whining,multitask,ptsd,147,1,1
+replying,multitask,ptsd,148,1,1
+have lost weight,multitask,suicide_attempt,148,3,1
+consciousness,multitask,schizophrenia,148,1,1
+desperation,multitask,panic,148,1,1
+put on weight,multitask,eating,148,3,1
+fat today,multitask,eating,150,2,1
+i should probably sleep,multitask,depression,150,4,1
+im here for you,multitask,depression,151,4,1
+i am a size,multitask,eating,151,4,1
+aggressively,multitask,schizophrenia,151,1,1
+when i reach,multitask,eating,151,3,1
+it makes me sad,clpsych,ptsd,151,4,1
+never happened,multitask,ptsd,151,2,1
+choking,clpsych,depression-ptsd,151,1,2
+to feel something,multitask,eating,152,3,1
+calorie intake,multitask,eating,153,2,1
+so ugly and,multitask,eating,153,3,1
+any weight,multitask,depression,154,2,1
+hospitalized,multitask,suicide_attempt,155,1,1
+blowjob,multitask,schizophrenia,155,1,1
+choked,multitask,ptsd,156,1,1
+guts,multitask,ptsd,157,1,1
+acid,clpsych,depression,157,1,1
+deeper,multitask,ptsd,158,1,1
+love and care,multitask,suicide_attempt,159,3,1
+kilos,multitask,eating,159,1,1
+hope you feel,clpsych,ptsd,159,3,1
+murdering,multitask,bipolar,159,1,1
+i feel so sick,clpsych,depression,159,4,1
+self hate,multitask,eating,159,2,1
+hateful,clpsych,depression,160,1,1
+fat i can,multitask,eating,160,3,1
+a few years ago,clpsych,ptsd,160,4,1
+pro ana,multitask,eating,160,2,1
+shitting,multitask,bipolar,161,1,1
+violent,multitask,ptsd,161,1,1
+eds,multitask,eating,161,1,1
+body so much,multitask,eating,162,3,1
+my metabolism,multitask,eating,162,2,1
+cum,multitask,bipolar,162,1,1
+people i love,clpsych,depression,162,3,1
+this is so ugly,multitask,depression,163,4,1
+threats,clpsych-multitask,panic-ptsd,164,1,2
+deprivation,multitask,schizophrenia,164,1,1
+cryig,multitask,anxiety,164,1,1
+fat like,multitask,eating,164,2,1
+in danger,multitask,bipolar,165,2,1
+to talk about it,multitask,bipolar,165,4,1
+clingy,multitask,panic,165,1,1
+be more active,multitask,depression,165,3,1
+lucifer,multitask,schizophrenia,165,1,1
+feel so disgusting,multitask,eating,165,3,1
+am so fat,multitask,eating-suicide_attempt,165,3,2
+i felt like i,multitask,bipolar,166,4,1
+more calories,multitask,eating,166,2,1
+would like to talk,multitask,depression,166,4,1
+misunderstanding,multitask,bipolar,167,1,1
+i will never forget,clpsych,ptsd,167,4,1
+have loads,multitask,eating,167,2,1
+weigh myself,multitask,eating,168,2,1
+not belong,clpsych,depression,168,2,1
+struggled with,multitask,eating,169,2,1
+grief,clpsych,ptsd,169,1,1
+want to hurt,multitask,suicide_attempt,170,3,1
+so cute im,multitask,eating,170,3,1
+fatter,clpsych-multitask,depression-eating,170,1,2
+your ed,multitask,eating,171,2,1
+not skinny,multitask,eating,171,2,1
+for nudes,multitask,eating,172,2,1
+and suddenly i,multitask,suicide_attempt,172,3,1
+insults,clpsych,depression,172,1,1
+spectrum,multitask,schizophrenia,173,1,1
+not felt,clpsych,depression,173,2,1
+i wanna die,multitask,suicide_attempt,173,3,1
+queer,multitask,ptsd,173,1,1
+patches,clpsych,depression,174,1,1
+harass,multitask,bipolar,176,1,1
+scared i,clpsych,depression,176,2,1
+disabled,multitask,bipolar,177,1,1
+cut but i,multitask,depression,177,3,1
+gain weight and,multitask,eating,177,3,1
+physical health,multitask,suicide_attempt,178,2,1
+feels that way,multitask,depression,178,3,1
+am so sad and,multitask,depression,179,4,1
+how skinny,multitask,eating,180,2,1
+weight this,multitask,eating,181,2,1
+cellulite,multitask,eating,181,1,1
+breakdown,multitask,borderline,183,1,1
+blue hair,multitask,panic,183,2,1
+rest of his life,multitask,depression,183,4,1
+asexual,multitask,depression-eating,184,1,2
+the victim,clpsych,ptsd,184,2,1
+nightmares,clpsych,ptsd,184,1,1
+healed,clpsych,depression,185,1,1
+forgiveness,clpsych,ptsd,185,1,1
+makes me cry,multitask,suicidal_ideation,186,3,1
+intercourse,multitask,schizophrenia,186,1,1
+in the mirror i,multitask,eating,186,4,1
+myfitnesspal,multitask,eating,187,1,1
+hot water bottle,multitask,eating,187,3,1
+mourning,multitask,bipolar,187,1,1
+weight at,multitask,eating,188,2,1
+starve,multitask,ptsd,189,1,1
+prostate,multitask,schizophrenia,189,1,1
+i am so tired,multitask,suicidal_ideation,189,4,1
+calories i,multitask,eating,189,2,1
+i should be happy,multitask,suicide_attempt,190,4,1
+not blame yourself,multitask,anxiety,191,3,1
+tried to kill,multitask,bipolar,191,3,1
+stained,clpsych,depression,191,1,1
+my death,multitask,schizophrenia,191,2,1
+i want to sleep,multitask,bipolar,192,4,1
+assault,clpsych-multitask,panic-ptsd,193,1,2
+painkillers,multitask,suicide_attempt,194,1,1
+is skinny,multitask,eating,194,2,1
+very sad and,multitask,depression,194,3,1
+amazingly,clpsych,ptsd,194,1,1
+unwell,multitask,eating,195,1,1
+and purge,multitask,eating,196,2,1
+imagining,multitask,ptsd,196,1,1
+accusing,multitask,schizophrenia,197,1,1
+all women,multitask,ptsd,197,2,1
+like calories,multitask,eating,197,2,1
+apologizing,clpsych,depression,199,1,1
+racism,multitask,bipolar,199,1,1
+want to talk,multitask,suicidal_ideation,199,3,1
+scaring me,clpsych,depression,200,2,1
+to help you,multitask,suicidal_ideation,200,3,1
+have to fight,multitask,ptsd,200,3,1
+upsetting,multitask,ptsd,201,1,1
+misgender,multitask,anxiety,201,1,1
+this disease,multitask,eating,201,2,1
+eat nothing,multitask,eating,202,2,1
+rape,multitask,ptsd,202,1,1
+i can not handle this,clpsych,depression,203,5,1
+i am drinking,clpsych,ptsd,203,3,1
+skinnier,multitask,eating,204,1,1
+i would be dead,multitask,eating,204,4,1
+i wanna hug,multitask,suicide_attempt,204,3,1
+own life,clpsych,depression,204,2,1
+cope,clpsych-multitask,depression-ptsd,204,1,2
+abnormal,multitask,schizophrenia,205,1,1
+aroused,multitask,schizophrenia,206,1,1
+calming,multitask,panic-ptsd,207,1,2
+purge and,multitask,eating,207,2,1
+to look after,multitask,eating,208,3,1
+abandon,multitask,ptsd,208,1,1
+perceived,multitask,eating,209,1,1
+eaten so much,multitask,eating,209,3,1
+to get help,multitask,suicide_attempt,209,3,1
+been crying,clpsych,depression,209,2,1
+swallowing,multitask,schizophrenia,209,1,1
+paxil,multitask,anxiety,209,1,1
+broken i am,multitask,depression,210,3,1
+a rough,clpsych,ptsd,210,2,1
+murderer,multitask,bipolar,210,1,1
+make me eat,multitask,eating,210,3,1
+fat again,multitask,eating,210,2,1
+the weight i,multitask,eating,211,3,1
+i am afraid to,clpsych,ptsd,211,4,1
+made me feel,multitask,suicidal_ideation,211,3,1
+ded,multitask,suicide_attempt,211,1,1
+weight but i,multitask,eating,212,3,1
+liquid fast,multitask,eating,212,2,1
+you are lovely,multitask,eating,213,3,1
+body posi,multitask,depression,213,2,1
+be skinny and,multitask,eating,214,3,1
+trans,multitask,suicide_attempt,214,1,1
+want to cry,multitask,suicidal_ideation,216,3,1
+weight since,multitask,eating,217,2,1
+to jump off a,multitask,eating,218,4,1
+am too fat,multitask,eating,218,3,1
+want a hug,multitask,suicide_attempt,219,3,1
+i feel sorry for,clpsych,ptsd,219,4,1
+oppressing,multitask,depression,219,1,1
+fasting and,multitask,eating,220,2,1
+terrified,multitask,borderline,221,1,1
+so much weight,multitask,eating,222,3,1
+puke,clpsych,depression,222,1,1
+on the edge of,clpsych,ptsd,223,4,1
+am still not over,multitask,eating,223,4,1
+and i just feel,multitask,eating,224,4,1
+lose more,multitask,eating,225,2,1
+fearless,clpsych,ptsd,225,1,1
+but i can not eat,multitask,eating,225,5,1
+how to explain,multitask,eating,225,3,1
+not hate you,clpsych,depression,227,3,1
+erection,multitask,suicide_attempt,228,1,1
+wanted to die,multitask,suicide_attempt,228,3,1
+have lost so much,multitask,eating,230,4,1
+furiously,multitask,suicide_attempt,230,1,1
+sjw,multitask,anxiety,230,1,1
+sedated,multitask,schizophrenia,231,1,1
+vibrator,multitask,suicide_attempt,231,1,1
+realise it,multitask,eating,231,2,1
+i wanna kill,multitask,suicide_attempt,231,3,1
+capitalist,multitask,schizophrenia,232,1,1
+beat the shit out,clpsych,depression,232,4,1
+bi,multitask,panic,232,1,1
+in the hospital for,multitask,eating,232,4,1
+porn video,multitask,anxiety,233,2,1
+cymbalta,multitask,anxiety,233,1,1
+much fat,multitask,eating,233,2,1
+myself in the mirror,multitask,eating,234,4,1
+offensive,clpsych,depression,234,1,1
+the navy,clpsych,ptsd,236,2,1
+cringing,multitask,panic,236,1,1
+am going to kill,clpsych,depression,236,4,1
+bleach,multitask,panic,237,1,1
+afghanistan,clpsych,ptsd,237,1,1
+they have no idea,multitask,eating,237,4,1
+am skinny,multitask,eating,238,2,1
+severely,clpsych,ptsd,238,1,1
+an ed,multitask,eating,239,2,1
+constipation,multitask,eating,239,1,1
+hetero,multitask,suicide_attempt,239,1,1
+pains,multitask,bipolar,240,1,1
+i am afraid of,multitask,bipolar,241,4,1
+curiosity,multitask,bipolar,241,1,1
+was in hospital,multitask,depression,242,3,1
+to stop myself from,multitask,eating,242,4,1
+hysterically,multitask,panic,242,1,1
+torture,multitask,borderline,242,1,1
+boobs,multitask,borderline,243,1,1
+it was in the,multitask,bipolar,243,4,1
+coward,multitask,panic,243,1,1
+despite,multitask,borderline,244,1,1
+lunatic,multitask,schizophrenia,244,1,1
+wiped,multitask,panic,244,1,1
+cruel,multitask,borderline,245,1,1
+deserved better,multitask,depression,245,2,1
+body image,multitask,suicide_attempt,245,2,1
+i am a mess,multitask,panic,245,4,1
+you need to eat,multitask,eating,246,4,1
+paracetamol,multitask,depression,246,1,1
+i am nervous,multitask,bipolar,247,3,1
+i have to eat,multitask,eating,247,4,1
+survived,multitask,borderline,248,1,1
+you are stronger than,multitask,eating,248,4,1
+kill yourself,multitask,bipolar,248,2,1
+feminist,multitask,panic,249,1,1
+i will miss you,clpsych,ptsd,249,4,1
+you are not fat,multitask,eating,249,4,1
